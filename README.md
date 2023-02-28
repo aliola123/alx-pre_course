@@ -1,1 +1,1 @@
-first time creating a directory using the github functions
+My first readme
